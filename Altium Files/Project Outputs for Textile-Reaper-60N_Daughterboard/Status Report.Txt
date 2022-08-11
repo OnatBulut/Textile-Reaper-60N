@@ -1,6 +1,6 @@
 Output: Gerber Files
 Type  : Gerber
-From  : Variant [[No Variations]] of Project [Textile-Reaper-60N_Daughterboard.PrjPcb]
+From  : Variant [[No Variations]] of Project [Textile-Reaper-60N_Mainboard.PrjPcb]
    Generated File[DaughterboardPCB.GTO]
    Generated File[DaughterboardPCB.GTS]
    Generated File[DaughterboardPCB.GTL]
@@ -16,4 +16,4 @@ From  : Variant [[No Variations]] of Project [Textile-Reaper-60N_Daughterboard.P
 Files Generated   : 10
 Documents Printed : 0
 
-Finished Output Generation At 01:07:25 On 12.08.2022
+Finished Output Generation At 01:14:05 On 12.08.2022
