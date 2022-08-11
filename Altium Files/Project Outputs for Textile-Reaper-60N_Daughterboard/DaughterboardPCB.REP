@@ -2,91 +2,37 @@
 FileName = DaughterboardPCB.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : DaughterboardPCB.GBS
+Generating : Top Overlay
+      File : DaughterboardPCB.GTO
 
-    Adding Layer      : Bottom Solder
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Board Edge
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D10
+    D11
     D12
+    D13
+    D14
+    D15
     D16
-    D29
-    D30
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : DaughterboardPCB.GTS
+Generating : Bottom Overlay
+      File : DaughterboardPCB.GBO
 
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Board Edge
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D16
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-*************************************************************
-
-*************************************************************
-Generating : Board Edge
-      File : DaughterboardPCB.GM1
-
-    Adding Layer      : Board Edge
+    Adding Layer      : Bottom Overlay
 
     Adding Layer      : Board Edge
 
 
 Used DCodes :
     D12
+    D15
     D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : DaughterboardPCB.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Board Edge
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D12
-    D16
-    D45
-    D47
-    D48
-    D49
-    D50
 *************************************************************
 
 *************************************************************
@@ -127,36 +73,90 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : DaughterboardPCB.GBO
+Generating : Top Solder
+      File : DaughterboardPCB.GTS
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Solder
 
     Adding Layer      : Board Edge
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
     D12
-    D15
     D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : DaughterboardPCB.GTO
+Generating : Bottom Solder
+      File : DaughterboardPCB.GBS
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D29
+    D30
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : DaughterboardPCB.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D45
+    D47
+    D48
+    D49
+    D50
+*************************************************************
+
+*************************************************************
+Generating : Board Edge
+      File : DaughterboardPCB.GM1
+
+    Adding Layer      : Board Edge
 
     Adding Layer      : Board Edge
 
 
 Used DCodes :
-    D10
-    D11
     D12
-    D13
-    D14
-    D15
     D16
 *************************************************************
 
