@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document2]
-DocumentPath=60p_numpad_mainboard.PrjPcb
+DocumentPath=Textile-Reaper-60N_Mainboard.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=60p_numpad_daughterboard.PrjPcb
+DocumentPath=Textile-Reaper-60N_Daughterboard.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
