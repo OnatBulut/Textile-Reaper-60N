@@ -82,58 +82,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXUJVXCO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for 60p_numpad_daughterboard\DaughterboardPCB.TXT
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
