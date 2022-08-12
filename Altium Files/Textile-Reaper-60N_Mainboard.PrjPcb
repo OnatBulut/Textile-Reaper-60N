@@ -82,46 +82,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COOTCXVO
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.REP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for Textile-Reaper-60N_Mainboard\DaughterboardPCB.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Sources
 ParameterCount=0
