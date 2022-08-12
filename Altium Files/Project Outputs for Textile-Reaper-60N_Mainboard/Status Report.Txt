@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Textile-Reaper-60N_Mainboard.PrjPcb]
+   Generated File[MainboardPCB-RoundHoles.TXT]
+   Generated File[MainboardPCB-SlotHoles.TXT]
+   Generated File[MainboardPCB.LDP]
+   Generated File[MainboardPCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 20:12:41 On 12.08.2022
