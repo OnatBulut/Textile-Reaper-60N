@@ -2,6 +2,40 @@
 FileName = MainboardPCB.GBR
 AutoAperture = True
 *************************************************************
+Generating : Board Edge
+      File : MainboardPCB.GM1
+
+    Adding Layer      : Board Edge
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : MainboardPCB.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Edge
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D20
+    D55
+    D56
+    D57
+    D58
+    D59
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : MainboardPCB.GBS
 
@@ -62,16 +96,18 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Board Edge
-      File : MainboardPCB.GM1
+Generating : Top Overlay
+      File : MainboardPCB.GTO
 
-    Adding Layer      : Board Edge
+    Adding Layer      : Top Overlay
 
     Adding Layer      : Board Edge
 
 
 Used DCodes :
+    D10
     D11
+    D12
 *************************************************************
 
 *************************************************************
@@ -138,41 +174,5 @@ Used DCodes :
     D23
     D24
     D25
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : MainboardPCB.GBO
-
-    Adding Layer      : Bottom Overlay
-
-    Adding Layer      : Board Edge
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D20
-    D55
-    D56
-    D57
-    D58
-    D59
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : MainboardPCB.GTO
-
-    Adding Layer      : Top Overlay
-
-    Adding Layer      : Board Edge
-
-
-Used DCodes :
-    D10
-    D11
-    D12
 *************************************************************
 
