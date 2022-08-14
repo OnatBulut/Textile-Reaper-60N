@@ -1,4 +1,4 @@
-# Textile Reaper 60N
+# Reaper 60N
 
 Gasket mount, south facing 60% keyboard with a dedicated numpad and an encoder\
 7 degree angle, USB Type-C connector
