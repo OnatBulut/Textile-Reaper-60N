@@ -11,27 +11,23 @@ Generating : Board Edge
 
 
 Used DCodes :
-    D13
+    D12
+    D16
 *************************************************************
 
 *************************************************************
-Generating : Bottom Layer
-      File : DaughterboardPCB.GBL
+Generating : Bottom Overlay
+      File : DaughterboardPCB.GBO
 
-    Adding Layer      : Bottom Layer
+    Adding Layer      : Bottom Overlay
 
     Adding Layer      : Board Edge
 
-    Adding Layer      : Multi-Layer
-
 
 Used DCodes :
-    D13
-    D45
-    D47
-    D48
-    D49
-    D50
+    D12
+    D15
+    D16
 *************************************************************
 
 *************************************************************
@@ -48,23 +44,43 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D13
-    D29
+    D12
+    D16
     D30
+    D31
 *************************************************************
 
 *************************************************************
-Generating : Bottom Overlay
-      File : DaughterboardPCB.GBO
+Generating : Top Solder
+      File : DaughterboardPCB.GTS
 
-    Adding Layer      : Bottom Overlay
+    Adding Layer      : Top Solder
 
     Adding Layer      : Board Edge
 
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
 
 Used DCodes :
-    D13
+    D12
     D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
 *************************************************************
 
 *************************************************************
@@ -87,35 +103,24 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Solder
-      File : DaughterboardPCB.GTS
+Generating : Bottom Layer
+      File : DaughterboardPCB.GBL
 
-    Adding Layer      : Top Solder
+    Adding Layer      : Bottom Layer
 
     Adding Layer      : Board Edge
-
-    Adding Layer      : Top Layer
 
     Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D13
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
+    D12
+    D16
+    D45
+    D47
+    D48
+    D49
+    D50
 *************************************************************
 
 *************************************************************
@@ -130,7 +135,8 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D13
+    D12
+    D15
     D16
     D22
     D32

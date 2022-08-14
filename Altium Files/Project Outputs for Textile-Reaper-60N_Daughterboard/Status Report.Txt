@@ -1,19 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Textile-Reaper-60N_Mainboard.PrjPcb]
-   Generated File[DaughterboardPCB.GTO]
-   Generated File[DaughterboardPCB.GTS]
-   Generated File[DaughterboardPCB.GTL]
-   Generated File[DaughterboardPCB.GBL]
-   Generated File[DaughterboardPCB.GBS]
-   Generated File[DaughterboardPCB.GBO]
-   Generated File[DaughterboardPCB.GM1]
-   Generated File[DaughterboardPCB.RUL]
-   Generated File[DaughterboardPCB.EXTREP]
-   Generated File[DaughterboardPCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Textile-Reaper-60N_Daughterboard.PrjPcb]
+   Generated File[DaughterboardPCB.TXT]
+   Generated File[DaughterboardPCB.LDP]
+   Generated File[DaughterboardPCB.DRR]
 
 
-Files Generated   : 10
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 01:14:05 On 12.08.2022
+Finished Output Generation At 22:15:24 On 14.08.2022
